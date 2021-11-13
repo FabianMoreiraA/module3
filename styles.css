@@ -1,0 +1,20 @@
+.navbar{
+    border:5px solid black;
+    
+  }
+  h1{
+    text-align: center;
+  }
+  .grid-container{
+    background-color: #6a7169;
+    border: 3px solid black;
+    font-family: Verdana, sans-serif;
+    padding: 20px;
+    font-size: 20px;
+    margin: 15px;
+  }
+  .chickenSon{
+    text-align: center;
+    font-weight: bold;
+    font-size: x-large;
+  }
